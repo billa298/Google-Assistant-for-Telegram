@@ -17,3 +17,7 @@ Make sure to replace ```YOUR_DEVICE_ID``` and ```YOUR_MODEL_ID``` with your own.
 
 # Screenshot
 ![image](https://i.imgur.com/MIMRzZ1.png)
+
+# Video
+
+[![SC2 Video](https://i.ytimg.com/vi/lUJRs5yzZM0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCCv6oDZ5_cxCE_SM9x_7Bs7AxQjQ)](https://youtu.be/lUJRs5yzZM0)
